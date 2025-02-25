@@ -9,7 +9,7 @@ Documentation for [MyAwesomePackage](https://github.com/karei03/MyAwesomePackage
 testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
 testtest
 
-testtest
+testtest1
 
 ```@index
 abc
